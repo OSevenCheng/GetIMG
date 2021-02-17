@@ -1,0 +1,27 @@
+{
+  "name": "getimg",
+  "version": "1.0.0",
+  "description": "get img from url",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSevenCheng/GetIMG.git"
+  },
+  "keywords": [
+    "img"
+  ],
+  "author": "OSevenCheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSevenCheng/GetIMG/issues"
+  },
+  "homepage": "https://github.com/OSevenCheng/GetIMG#readme"
+}
