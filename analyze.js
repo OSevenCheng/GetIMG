@@ -11,3 +11,5 @@ function findImg(dom, callback)
         }
     );
 }
+
+module.exports.findImg = findImg;
